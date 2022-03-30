@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: purple;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Calibri';
+    background: url("https://preview.redd.it/p2x1aylaup551.png?width=1920&format=png&auto=webp&s=6008a3dab9aef0e0eaec44752fa480576b670738");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+header{
+    color: white;
+    margin-top: 10px;
+    background-color: #ff343481;
+    font-family: sans-serif;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+    padding-right: 480px;
+    padding-left: 20px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 15px;
+    height: 50px;
+    padding: auto;
+    
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+marquee{
+    margin-bottom: 15px;
+    font-size: 40px;
+}
