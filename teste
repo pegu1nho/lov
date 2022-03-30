@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <title>Laryssa de Castro Ribeiro</title>
+</head>
+<body>
+    
+   
+    <main class="container">
+        <marquee behavior="alternate" scrollamount="3" scrolldelay="6" >❤️ EU TE AMO ❤️ EU TE AMO 😍😍😍 EU TE AMO ❤️ EU TE AMO ❤️</marquee>
+    </main>
+   
+    <section>
+        <h1>AMO-TE</h1>
+        <br>
+        <h2>Amo-te quanto em largo, alto e profundo</h2>
+        <h2>Minh'alma alcança quando, transportada,</h2>
+        <h2>sente, alongando os olhos deste mundo,</h2>
+        <h2>os fins do ser, a graça entresonhada.</h2>
+        <br>
+        <h2>Amo-te a cada dia, hora e segundo</h2>
+        <h2>A luz do sol, na noite sossegada</h2>
+        <h2>e é tão pura a paixão de que me inundo</h2>
+        <h2>Quanto o pudor dos que não pedem nada.</h2>
+        <br>
+        <h2>Amo-te com a dor, das velhas penas</h2>
+        <h2>com sorrisos, com lágrimas de prece,</h2>
+        <h2>e a fé de minha infância, ingênua e forte.</h2>
+        <br>
+        <h2>Amo-te até nas coisas mais pequenas,</h2>
+        <h2>por toda vida, e assim DEUS o quiser</h2>
+        <h2>Ainda mais te amarei depois da morte.</h2>
+        <br>
+        <h2> ❤️ </h2>
+
+    </section>
+</body>
+</html>
